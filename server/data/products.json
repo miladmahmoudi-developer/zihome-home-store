@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "name": "مبل راحتی طوسی",
+      "category": "مبلمان و دکوراسیون",
+      "price": 1000000,
+      "image": "/products/8001402e-680e-4628-81ed-576753fb06c1.png",
+      "description": "مبلمان زیبا",
+      "stockCount": 3,
+      "isFeatured": true,
+      "id": "fa34cc8a-3fca-4e6c-b7d8-0b33e1fef97e",
+      "rating": 0,
+      "reviewsCount": 0,
+      "inStock": true
+    },
+    {
+      "name": "قفسهٔ چوبی",
+      "category": "مبلمان و دکوراسیون",
+      "price": 2000000,
+      "image": "/products/c661506e-b358-41fb-89fa-4370b2658a00.png",
+      "description": "قفسه مناسب",
+      "stockCount": 5,
+      "isFeatured": true,
+      "id": "5c1b506e-ff32-4253-b74d-bcd5aedeef19",
+      "rating": 0,
+      "reviewsCount": 0,
+      "inStock": true
+    },
+    {
+      "name": "دستگاه قهوه‌ساز",
+      "category": "لوازم آشپزخانه",
+      "price": 5000000,
+      "image": "/products/cd66980a-9d25-4534-b748-820433b193ab.png",
+      "description": "قهوه ساز حرفه ای",
+      "stockCount": 12,
+      "isFeatured": true,
+      "id": "702f7813-e22f-4d7e-b89e-5aaa5a1d23b0",
+      "rating": 0,
+      "reviewsCount": 0,
+      "inStock": true
+    },
+    {
+      "name": "فریزر قرمز",
+      "category": "لوازم آشپزخانه",
+      "price": 10000000,
+      "image": "/products/03d81212-ba5f-4ba2-b096-4dff698e4f2a.png",
+      "description": "یخچال فریزر عالی",
+      "stockCount": 5,
+      "isFeatured": false,
+      "id": "0f5d0d2f-d41f-49c7-bd79-276534bd5c1e",
+      "rating": 0,
+      "reviewsCount": 0,
+      "inStock": true
+    },
+    {
+      "name": "لوستر",
+      "category": "روشنایی",
+      "price": 80000000,
+      "image": "/products/e919f132-f3f4-46d3-adf2-0770e08df671.png",
+      "description": "لوستر زیبا",
+      "stockCount": 10,
+      "isFeatured": false,
+      "id": "1de63598-51a8-4512-8836-f536aae50b3c",
+      "rating": 0,
+      "reviewsCount": 0,
+      "inStock": true
+    },
+    {
+      "name": "بالش",
+      "category": "لوازم خواب",
+      "price": 5000000,
+      "image": "/products/6af28ebb-c285-4ab3-ac0f-e2490dd20f05.png",
+      "description": "زیباترین بالش ها",
+      "stockCount": 3,
+      "isFeatured": false,
+      "id": "0a4185ab-078e-4b62-a398-3ea47eaadbf4",
+      "rating": 0,
+      "reviewsCount": 0,
+      "inStock": true
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+/* Shared visual tokens keep colors and the base page style consistent. */
+:root {
+  font-family: Tahoma, Arial, sans-serif;
+  color: #333333;
+  background: #ffffff;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --color-primary: #e91e63;
+  --color-text: #333333;
+  --color-muted: #858b8d;
+  --color-border: #dedfe1;
+  --color-page: #ffffff;
+  --color-surface: #f3f4f4;
+  --color-dark: #292c2d;
+
+  --radius-card: 12px;
+}
+
+* {
+  /* Include padding and borders in an element's declared width and height. */
+  box-sizing: border-box;
+}
+
+html {
+  min-width: 320px;
+  direction: rtl;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+  background: var(--color-page);
+  color: var(--color-text);
+  line-height: 1.7;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
